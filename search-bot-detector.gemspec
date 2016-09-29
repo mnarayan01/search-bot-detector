@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Michael Narayan"]
   s.email       = ["mnarayan01@gmail.com"]
   s.homepage    = "https://github.com/mnarayan01/search-bot-detector"
+  s.license     = "Apache-2.0"
   s.summary     = "Detect and verify select search bots."
   s.description = "Detect and verify select (i.e. Google and Yandex) search bots."
 
